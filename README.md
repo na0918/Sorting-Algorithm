@@ -1,4 +1,4 @@
-# Sorting-Algorithm
+# Sorting-Algorithm(2020201631 나병운)
 
 * 소스코드는 marste branch / src 안에 있습니다.
 
